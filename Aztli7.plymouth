@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name = Aztli 7
+Description = Plymouth Aztli 7.0
+ModuleName = script
+
+[script]
+ImageDir =  /lib/plymouth/themes/Plymouth-Aztli7
+ScriptFile = /lib/plymouth/themes/Plymouth-Aztli7/Aztli7.script
